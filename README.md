@@ -4,7 +4,7 @@ WeatherApp is a simple web application that provides real-time weather informati
 # API Used
 WeatherApp retrieves weather data from the OpenWeather API. 
 You can find more information about the API here: https://openweathermap.org/api
-
+# Thanks!
 I have also deployed this project with Netlify. You can use it whenever you want. 
 Here is the link: https://weatherconditionycu.netlify.app
 
